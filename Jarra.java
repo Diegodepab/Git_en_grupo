@@ -10,6 +10,12 @@ public class Jarra { //atributos
     }
     // metodos
     // 1
+    public int capacidad(){
+        return this.capacidad;
+    }
+    public int cantidad(){
+        return this.cantidad;
+    }
     // 2
     public void llena() {
         this.cantidad=this.capacidad;
@@ -26,6 +32,7 @@ public class Jarra { //atributos
     public String toString(){
         return("("+this.capacidad+","+this.cantidad+")");
     }
+
     public void metodoComunitario(){
         // Comentario incluido para pruebas
         System.out.println("Aqui escribimos todos");
