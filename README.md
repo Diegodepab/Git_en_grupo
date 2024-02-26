@@ -1,14 +1,6 @@
 # Git_En_Grupo
 
 Actividad 2: Git (en grupo) Repositorio usado para mejorar nuestras habilidades de trabajo con un equipo de programadores a través de git
-
-<p align="center">
-  <img src="https://github.com/Diegodepab/prueba/assets/91531665/9d677da2-9baa-4b2f-bb4c-f28e57dc5383" width="220" title="Universidad de Málaga">
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/Diegodepab/prueba/assets/91531665/3fe4cd98-ee3f-488e-b74d-6b0a4c62fb7b" width="122" title="Logo de git">
-  &nbsp; &nbsp; &nbsp; &nbsp;
-
-  
 # Integrantes
 -Diego De Pablo (User: Diegodepab)
 
@@ -28,3 +20,8 @@ Implementar	una	clase	en	JAVA,	para	objeto Jarra,	el	cual	tiene	asociados	difere
 • Utilizandola aplicación de control de versiones GIT.
 
 • Un equipo de trabajo formado portres programadores.
+
+
+<p align="center">
+  
+![Uni - copia (2)](https://github.com/Leonard0black/A/assets/152276929/a999950b-42bd-4e18-abd5-103cb64429b8)         ![rediseñada](https://github.com/Leonard0black/A/assets/152276929/9cc84bff-0d25-4cbf-a374-0b4816eeadc3)
